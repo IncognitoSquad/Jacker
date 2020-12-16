@@ -1,0 +1,1 @@
+.\crunch_win.exe 2 5 -f charset.txt loweralpha -o passwords.txt
