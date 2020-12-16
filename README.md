@@ -1,12 +1,20 @@
- ▄▄▄██▀▀▀▄▄▄       ▄████▄   ██ ▄█▀▓█████  ██▀███  
-   ▒██  ▒████▄    ▒██▀ ▀█   ██▄█▒ ▓█   ▀ ▓██ ▒ ██▒
-   ░██  ▒██  ▀█▄  ▒▓█    ▄ ▓███▄░ ▒███   ▓██ ░▄█ ▒
-▓██▄██▓ ░██▄▄▄▄██ ▒▓▓▄ ▄██▒▓██ █▄ ▒▓█  ▄ ▒██▀▀█▄  
- ▓███▒   ▓█   ▓██▒▒ ▓███▀ ░▒██▒ █▄░▒████▒░██▓ ▒██▒
- ▒▓▒▒░   ▒▒   ▓▒█░░ ░▒ ▒  ░▒ ▒▒ ▓▒░░ ▒░ ░░ ▒▓ ░▒▓░
- ▒ ░▒░    ▒   ▒▒ ░  ░  ▒   ░ ░▒ ▒░ ░ ░  ░  ░▒ ░ ▒░
- ░ ░ ░    ░   ▒   ░        ░ ░░ ░    ░     ░░   ░ 
- ░   ░        ░  ░░ ░      ░  ░      ░  ░   ░ 
+###################################
+
+J A C K E R#############J A C K E R
+ J A C K E R           J A C K E R
+  J A C K E R         J A C K E R
+   J A C K E R       J A C K E R
+    J A C K E R     J A C K E R
+     J A C K E R   J A C K E R
+      J A C K E R J A C K E R
+     J A C K E R   J A C K E R
+    J A C K E R     J A C K E R
+   J A C K E R       J A C K E R
+  J A C K E R         J A C K E R
+ J A C K E R           J A C K E R
+J A C K E R#############J A C K E R
+
+###################################
  
 Jacker is an MD5 Hasher and Searcher made by Minecraft Server Griefer, IncognitoSquad
 
