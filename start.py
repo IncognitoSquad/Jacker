@@ -34,7 +34,7 @@ Commands:
 help - Display this menu
 start (method) - Hash with a method
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"""
-
+hits = open("hits.txt", "w")
 passlist = open("passwords.txt", "r").read().splitlines()
 
 print(Fore.CYAN + ascii)
@@ -66,8 +66,8 @@ def md5():
     count = 0
     a = input("Wordlist: ")
     if (os.path.isfile(a)):
-        hits = open(a, "w")
-        for line in passlist:
+        passwords = open(a, "r").read().splitlines()
+        for line in passwords:
             count = count + 1
 
             txt = line
@@ -92,8 +92,8 @@ def sha1():
     count = 0
     a = input("Wordlist: ")
     if (os.path.isfile(a)):
-        hits = open(a, "w")
-        for line in passlist:
+        passwords = open(a, "r").read().splitlines()
+        for line in passwords:
             count = count + 1
 
             txt = line
@@ -118,8 +118,8 @@ def sha256():
     count = 0
     a = input("Wordlist: ")
     if (os.path.isfile(a)):
-        hits = open(a, "w")
-        for line in passlist:
+        passwords = open(a, "r").read().splitlines()
+        for line in passwords:
             count = count + 1
 
             txt = line
@@ -144,8 +144,8 @@ def sha512():
     count = 0
     a = input("Wordlist: ")
     if (os.path.isfile(a)):
-        hits = open(a, "w")
-        for line in passlist:
+        passwords = open(a, "r").read().splitlines()
+        for line in passwords:
             count = count + 1
 
             txt = line
